@@ -12,7 +12,7 @@
 Project Title: Password Strength Analyzer
 Internship Program: InternsVeda
 Technologies Used: HTML, CSS, JavaScript, zxcvbn.js
-Domain: Web Development, Cybersecurity
+Domain: Cybersecurity
 
 The Password Strength Analyzer is an interactive web-based application developed as part of my minor project under the InternsVeda internship. Its primary objective is to help users create secure passwords by analyzing their strength in real time. Weak passwords are a major cause of security breaches, and this project addresses that issue by providing an intuitive and informative tool for end users.
 
