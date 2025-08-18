@@ -21,4 +21,8 @@ The tool utilizes the powerful zxcvbn.js JavaScript library (developed by Dropbo
 # CONCLUSION:
 The Password Strength Analyzer is a simple yet effective tool for promoting password security awareness. By leveraging modern JavaScript libraries and intuitive UI design, this project demonstrates both my technical skills and my understanding of user-centric development. It has helped me apply practical HTML/CSS/JavaScript concepts while focusing on real-world security needs. This project also highlights the importance of frontend functionality, user feedback, and data validation in web development.
 
+# output:
+
+<img width="1002" height="703" alt="Image" src="https://github.com/user-attachments/assets/40c35aa0-a7c4-40f0-9f12-223b08509890" />
+
 
